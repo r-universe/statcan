@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "chms"]
+	path = chms
+	url = https://github.com/statcan/chms
 [submodule "gseries"]
 	path = gseries
 	url = https://github.com/statcan/gensol-gseries
